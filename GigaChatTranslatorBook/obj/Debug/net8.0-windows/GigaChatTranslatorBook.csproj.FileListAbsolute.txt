@@ -1,0 +1,17 @@
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\bin\Debug\net8.0-windows\GigaChatTranslatorBook.exe
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\bin\Debug\net8.0-windows\GigaChatTranslatorBook.deps.json
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\bin\Debug\net8.0-windows\GigaChatTranslatorBook.runtimeconfig.json
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\bin\Debug\net8.0-windows\GigaChatTranslatorBook.dll
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\bin\Debug\net8.0-windows\GigaChatTranslatorBook.pdb
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.mainForm.resources
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.csproj.GenerateResource.cache
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.AssemblyInfoInputs.cache
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.AssemblyInfo.cs
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.csproj.CoreCompileInputs.cache
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.sourcelink.json
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.dll
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\refint\GigaChatTranslatorBook.dll
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.pdb
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\GigaChatTranslatorBook.genruntimeconfig.cache
+C:\Projects\My\GigaChatTranslatorBook\GigaChatTranslatorBook\obj\Debug\net8.0-windows\ref\GigaChatTranslatorBook.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GigaChatTranslatorBook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f10c99eb8ce38d17a39b7b1b056bee655038b4b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GigaChatTranslatorBook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GigaChatTranslatorBook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
